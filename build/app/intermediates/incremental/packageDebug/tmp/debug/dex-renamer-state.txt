@@ -1,0 +1,4 @@
+#Sun Apr 26 20:58:37 IST 2020
+base.0=/media/vishnu/Developments/Practice/Flutter/v1/auth_screen/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
